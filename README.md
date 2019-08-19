@@ -1,3 +1,8 @@
+
+**DEPRECATED**
+For consistency and easy of maintenance, the contents of this repository have been moved to the [GitHub Docker project](https://github.com/instana/instana-agent-docker/tree/master/static).
+
+
 Instana Agent Static Docker
 ===========================
 
